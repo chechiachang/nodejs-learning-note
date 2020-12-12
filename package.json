@@ -1,0 +1,14 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "My nodejs",
+  "main": "index.js",
+  "scripts": {
+    "run": "serve -p 3000"
+  },
+  "author": "Che Chia Chang",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
