@@ -9,6 +9,6 @@
   "author": "Che Chia Chang",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.22.3"
   }
 }
